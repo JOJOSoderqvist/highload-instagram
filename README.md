@@ -20,11 +20,11 @@
 4. Каждый день на платформу загружается **1.3B** фотографий [^2]
 5. Средняя вовлеченность для постов в Instagram -- **0.71%** [^1]
 
-#### Распределение аудитории по странам
-[![Распределение аудитории по странам](diagrams/ig-users-by-country.webp)](https://backlinko.com/instagram-users) [^4]
+#### Распределение аудитории по странам [^4]
+[![Распределение аудитории по странам](diagrams/ig-users-by-country.webp)](https://backlinko.com/instagram-users)
 
-#### Средний возраст аудитории
-[![Средний возраст аудитории](diagrams/age-distribution.png)](https://datareportal.com/essential-instagram-stats) [^1]
+#### Средний возраст аудитории [^1]
+[![Средний возраст аудитории](diagrams/age-distribution.png)](https://datareportal.com/essential-instagram-stats)
 
 ### Список использованных источников
 [^1]: [Instagram users, stats, data & trends](https://datareportal.com/essential-instagram-stats)
