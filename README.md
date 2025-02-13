@@ -15,18 +15,19 @@
 
 Метрики трафика и вовлеченности
 1. MAU -- **2B** [^3]
-2. DAU -- **500M** (по статистике за 2017 год)
-3. Среднее время использования приложения в день -- **34 минуты**
-4. Каждый день на платформу загружается **1.3B** фотографий
-5. Средняя вовлеченность для постов в Instagram -- **1.89%**
+2. DAU -- **500M** (по статистике за 2017 год) [^4]
+3. Среднее время использования приложения в день -- **34 минуты** [^4]
+4. Каждый день на платформу загружается **1.3B** фотографий [^2]
+5. Средняя вовлеченность для постов в Instagram -- **0.71%** [^1]
 
 #### Распределение аудитории по странам
-![Распределение аудитории по странам](diagrams/ig-users-by-country.webp)
+[![Распределение аудитории по странам](diagrams/ig-users-by-country.webp)](https://backlinko.com/instagram-users) [^4]
 
 #### Средний возраст аудитории
-![Средний возраст аудитории](diagrams/age-distribution.png)
+[![Средний возраст аудитории](diagrams/age-distribution.png)](https://datareportal.com/essential-instagram-stats) [^1]
 
 ### Список использованных источников
-[^1]: 1. [Instagram users, stats, data & trends](https://datareportal.com/essential-instagram-stats)
-[^2]: 2. [Photo Statistics](https://photutorial.com/photos-statistics/)
-[^3]: 3. [Most popular social networks worldwide as of April 2024, by MAU](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
+[^1]: [Instagram users, stats, data & trends](https://datareportal.com/essential-instagram-stats)
+[^2]: [Photo Statistics](https://photutorial.com/photos-statistics/)
+[^3]: [Most popular social networks worldwide as of April 2024, by MAU](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
+[^4]: [BackLinko](https://backlinko.com/instagram-users)
