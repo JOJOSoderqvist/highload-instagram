@@ -266,8 +266,20 @@ Kubernetes сам следит за состоянием pod-ов и при на
 
 ### Cassandra
 
-Для лайков будет использоваться lease GET запросы в Redis. 
+| Keyspace        | Partition Key | Cluster column |
+|-----------------|---------------|----------------|
+| post_likes      | post_id       | -              |
+| post            | user_id       | created_at     |
+| comments        | post_id       | created_at     |
+| post_images     | post_id       | image_num      |
+| comment_replies | comment_id    | created_at     |
+| comment_likes   | comment_id    | -              |
 
+Подумать над fan-out и отдельной таблицей для feed.
+
+### Redis
+
+Для лайков будет использоваться lease GET запросы в Redis. 
 
 ## Список использованных источников
 [^1]: [Instagram users, stats, data & trends](https://datareportal.com/essential-instagram-stats)
