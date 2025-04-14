@@ -504,6 +504,8 @@ Kubernetes сам следит за состоянием pod-ов и при на
 | Таблица         | Индекс     |
 |-----------------|------------|
 | user            | username   |
+| user            | email      |
+| user            | phone      |
 | post            | post_id    |
 | comments        | user_id    |
 | comments        | comment_id |
