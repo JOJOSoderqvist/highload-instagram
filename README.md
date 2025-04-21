@@ -551,7 +551,7 @@ Kubernetes сам следит за состоянием pod-ов и при на
 
 ## 9. Схема проекта
 
-![Project scheme](diagrams/hw-10.svg)
+![Project scheme](diagrams/hw-10-new.svg)
 
 ## 10. Обеспечение надежности
 
