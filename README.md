@@ -270,7 +270,7 @@ Kubernetes сам следит за состоянием pod-ов и при на
 
 ## 6. Физическая схема БД
 
-![Схема БД6](diagrams/db-6-final.png)
+![Схема БД6](diagrams/db-6.svg)
 
 Разбиение кластеров по геолокации, к примеру Cassandra-EU, Postgres-EU, Cassandra-US, Postgres-US. Данные пользователей соответствующего региона
 хранятся в соответствующем кластере.
@@ -551,7 +551,7 @@ Kubernetes сам следит за состоянием pod-ов и при на
 
 ## 9. Схема проекта
 
-![Project scheme](diagrams/hw-10-new.svg)
+![Project scheme](diagrams/hw-10.svg)
 
 ## 10. Обеспечение надежности
 
